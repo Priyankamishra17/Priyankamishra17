@@ -47,7 +47,7 @@ Algorithms
 ████████████░░░░░░░░░░  55%
 
 Git & GitHub
-███████████████░░░░░░░  70%
+███████████████░░░░░░░  70% 
 
 🎯 My Goals
 🧩 Become an excellent problem solver
