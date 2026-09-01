@@ -1,5 +1,5 @@
 👨‍💻 Hello, I'm an MCA (Integrated) Student
-<p align="center"> <img src="https://media.istockphoto.com/id/523761634/photo/cute-panda-bear-climbing-in-tree.jpg  /> </P> s=612x612&w=0&k=20&c=TxsmORsbuY1LpxQsc6T8fpWJo7lBwncciYhroAr8rXI=ont=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;C+Programmer+%7C+Problem+Solver;Mathematics+Enthusiast+%7C+Learner;Turning+Logic+into+Code+%F0%9F%92%BB" alt="Typing SVG" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Visitors&color=0e75b6&style=for-the-badge" alt="Profile Visitors" /> </p>
+<p align="center"> <img src="https://media.istockphoto.com/id/523761634/photo/cute-panda-bear-climbing-in-tree.jpg?s=612x612&w=0&k=20&c=TxsmORsbuY1LpxQsc6T8fpWJo7lBwncciYhroAr8rXI= font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;C+Programmer+%7C+Problem+Solver;Mathematics+Enthusiast+%7C+Learner;Turning+Logic+into+Code+%F0%9F%92%BB" alt="Typing SVG" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Visitors&color=0e75b6&style=for-the-badge" alt="Profile Visitors" /> </p>
 🧑‍💻 About Me
 
 🎓 MCA (Integrated) — 1st Semester Student
