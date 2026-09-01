@@ -1,5 +1,5 @@
 👨‍💻 Hello, I'm an MCA (Integrated) Student
-<p align="center"> <img src="https://media.istockphoto.com/id/523761634/photo/cute-panda-bear-climbing-in-tree.jpg?s=612x612&w=0&k=20&c=TxsmORsbuY1LpxQsc6T8fpWJo7lBwncciYhroAr8rXI=" /> </p>
+<p align="center"> <img src="https://media.istockphoto.com/id/523761634/photo/cute-panda-bear-climbing-in-tree.jpg?s=612x612&w=0&k=20&c=TxsmORsbuY1LpxQsc6T8fpWJo7lBwncciYhroAr8rXI=PRI" /> </p>
 🧑‍💻 About Me
 
 🎓 MCA (Integrated) — 1st Semester Student
