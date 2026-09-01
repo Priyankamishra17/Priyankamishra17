@@ -1,5 +1,5 @@
 👨‍💻 Hello, I'm an MCA (Integrated) Student
-<p align="center"> <img src="xyz.pvt" atl="this is panda image" /> </p >
+<p align="center"> <img src="xyz.pvt" alt="this is panda image" /> </p >
 🧑‍💻 About Me
 
 🎓 MCA (Integrated) — 1st Semester Student
